@@ -1,0 +1,10 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerServer\MessengerServerConsole\bin\Debug\MessengerServerConsole.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerServer\MessengerServerConsole\bin\Debug\MessengerServerConsole.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerServer\MessengerServerConsole\bin\Debug\MessengerServerConsole.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerServer\MessengerServerConsole\obj\Debug\MessengerServerConsole.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerServer\MessengerServerConsole\obj\Debug\MessengerServerConsole.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerServer\MessengerServerConsole\bin\Debug\EntityFramework.dll
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerServer\MessengerServerConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerServer\MessengerServerConsole\bin\Debug\EntityFramework.xml
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerServer\MessengerServerConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerServer\MessengerServerConsole\obj\Debug\MessengerServerConsole.csprojResolveAssemblyReference.cache

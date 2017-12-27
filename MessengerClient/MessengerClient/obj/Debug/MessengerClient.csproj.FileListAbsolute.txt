@@ -1,0 +1,13 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\bin\Debug\MessengerClient.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\bin\Debug\MessengerClient.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\bin\Debug\MessengerClient.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\obj\Debug\MessengerClient.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\obj\Debug\MessengerClient.MainForm.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\obj\Debug\MessengerClient.RegistrationForm.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\obj\Debug\MessengerClient.StartForm.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\obj\Debug\MessengerClient.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\obj\Debug\MessengerClient.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\obj\Debug\MessengerClient.AuthenticationForm.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\MessengerClient\MessengerClient\obj\Debug\MessengerClient.MessageForm.resources
